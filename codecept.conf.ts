@@ -4,7 +4,7 @@ export const config: CodeceptJS.MainConfig = {
   helpers: {
     Playwright: {
       browser: 'chromium',
-      url: 'https://www.google.hu/',
+      url: 'https://www.nemzetisport.hu',
       show: true
     }
   },
